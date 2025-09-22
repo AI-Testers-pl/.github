@@ -4,20 +4,18 @@
 
 Boost your testing with AI and build a professional automation framework.
 
-Gain a competitive edge by combining AI capabilities with the most popular tools in the IT industry: Playwright, GitHub Copilot, MCP, and AI Agents.
-
-Visit to boost Your skill in AI: [https://aitesters.pl/](https://aitesters.pl/)
+Gain a competitive edge by combining AI capabilities with the most popular tools in the IT industry: Playwright, GitHub Copilot, MCP, and AI Agents. Visit to boost Your skill in AI: **[https://aitesters.pl/](https://aitesters.pl/)**
 
 ## Who we are?
 
 We are a team of experienced professionals dedicated to improving software testing and automation through the use of AI technologies.
 | **Krzysztof Kijas** | **Przemysław Barański** |
 |-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| <img src="https://github.com/AI-Testers-pl/.github/blob/main/images/krzysiek-jaktestowac-team.jpg" alt="Krzysztof Kijas" width="150" height="150" style="border-radius: 50%;" /> | <img src="https://github.com/AI-Testers-pl/.github/blob/main/images/przemek-jaktestowac-team.jpg" alt="Przemysław Barański" width="150" height="150" style="border-radius: 50%;" /> |
-| - 🔗 [LinkedIn](https://www.linkedin.com/in/krzysztof-kijas/) | - 🔗 [LinkedIn](https://www.linkedin.com/in/przemyslaw-baranski/) |
-| - Senior Software Assurance Quality Engineer, Tech Lead, Mentor, IT Consultant | - Senior Software Assurance Quality Engineer, Principal Engineer |
-| - Microsoft Most Valuable Professional (MVP) | - Microsoft Most Valuable Professional (MVP) |
-| - with extensive professional experience since 2011 | - with extensive professional experience since 2011 |
+| <div align="center"><img src="https://github.com/AI-Testers-pl/.github/blob/main/images/krzysiek-jaktestowac-team.jpg" alt="Krzysztof Kijas" width="150" height="150" style="border-radius: 50%;" /></div> | <div align="center"><img src="https://github.com/AI-Testers-pl/.github/blob/main/images/przemek-jaktestowac-team.jpg" alt="Przemysław Barański" width="150" height="150" style="border-radius: 50%;" /></div> |
+| 🔗 [LinkedIn](https://www.linkedin.com/in/krzysztof-kijas/) | 🔗 [LinkedIn](https://www.linkedin.com/in/przemyslaw-baranski/) |
+| Senior Software Assurance Quality Engineer, Tech Lead, Mentor, IT Consultant | Senior Software Assurance Quality Engineer, Principal Engineer |
+| Microsoft Most Valuable Professional (MVP) | Microsoft Most Valuable Professional (MVP) |
+| with extensive professional experience since 2011 | with extensive professional experience since 2011 |
 
 # 📞 Contact & Support
 
