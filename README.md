@@ -67,16 +67,17 @@ Through our platform, we not only offer specialized courses but also actively co
 
 Feel free to reach out to us:
 
-- 🌐 **Website**: [jaktestowac.pl](https://jaktestowac.pl)
-- 💼 **LinkedIn**: [jaktestowac.pl](https://www.linkedin.com/company/jaktestowac/)
+- 🌐 **Website**: [https://aitesters.pl/](https://aitesters.pl/)
+- 💼 **LinkedIn**: [jaktestowac.pl](https://www.linkedin.com/company/aitesters/)
 - 💬 **Discord**: [Polish Playwright Community](https://discord.gg/mUAqQ7FUaZ)
+- 🌐 **Website**: [jaktestowac.pl](https://jaktestowac.pl)
 - 📧 **Support**: Check our website for contact details
 
 ---
 
 # 📚 Learning Resources
 
-We have gathered a collection of resources to help you learn and master Playwright, both in Polish and English. Whether you're a beginner or an advanced user, these resources will help you enhance your skills and knowledge.
+We have gathered a collection of resources to help you learn and enhance your skills and knowledge.
 
 ## 🇵🇱 Polish Resources
 
