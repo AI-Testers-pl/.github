@@ -1,4 +1,4 @@
-![AI_Testers ](https://github.com/AI-Testers-pl/.github/blob/main/images/open-at-microsoft.png)
+![AI_Testers ](https://github.com/AI-Testers-pl/.github/blob/main/images/AI_Testers-header.png)
 
 # AI_Testers - Accelerate Testing and Automation with AI!
 
