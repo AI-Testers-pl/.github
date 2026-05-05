@@ -9,31 +9,86 @@ Gain a competitive edge by combining AI capabilities with the most popular tools
 ## Who we are?
 
 We are a team of experienced professionals dedicated to improving software testing and automation through the use of AI technologies.
-| **Krzysztof Kijas** | **Przemysław Barański** |
-|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| <div align="center"><img src="https://github.com/AI-Testers-pl/.github/blob/main/images/krzysiek-jaktestowac-team.jpg" alt="Krzysztof Kijas" width="150" height="150" style="border-radius: 50%;" /></div> | <div align="center"><img src="https://github.com/AI-Testers-pl/.github/blob/main/images/przemek-jaktestowac-team.jpg" alt="Przemysław Barański" width="150" height="150" style="border-radius: 50%;" /></div> |
-| 🔗 [LinkedIn](https://www.linkedin.com/in/krzysztof-kijas/) | 🔗 [LinkedIn](https://www.linkedin.com/in/przemyslaw-baranski/) |
-| Senior Software Assurance Quality Engineer, Tech Lead, Mentor, IT Consultant | Senior Software Assurance Quality Engineer, Principal Engineer |
-| Microsoft Most Valuable Professional (MVP) | Microsoft Most Valuable Professional (MVP) |
-| with extensive professional experience since 2011 | with extensive professional experience since 2011 |
+
+<div align="center">
+<table>
+  <tr>
+    <td width="25%" align="center" style="padding:10px; vertical-align:top;">
+      <img src="https://github.com/AI-Testers-pl/.github/blob/main/images/krzysiek-jaktestowac-team.jpg" alt="Krzysztof Kijas" width="150" height="150" style="border-radius: 50%;" />
+    </td>
+    <td align="left" style="padding:10px; vertical-align:top;">
+      <strong>Krzysztof Kijas</strong><br/>
+      🔗 [LinkedIn](https://www.linkedin.com/in/krzysztof-kijas/)<br/>
+      Senior Software Assurance Quality Engineer, Tech Lead, Mentor, IT Consultant<br/>
+      Microsoft Most Valuable Professional (MVP)<br/>
+      with extensive professional experience since 2011
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" style="padding:10px; vertical-align:top;">
+      <img src="https://github.com/AI-Testers-pl/.github/blob/main/images/przemek-jaktestowac-team.jpg" alt="Przemysław Barański" width="150" height="150" style="border-radius: 50%;" />
+    </td>
+    <td align="left" style="padding:10px; vertical-align:top;">
+      <strong>Przemysław Barański</strong><br/>
+      🔗 [LinkedIn](https://www.linkedin.com/in/przemyslaw-baranski/)<br/>
+      Senior Software Assurance Quality Engineer, Principal Engineer<br/>
+      Microsoft Most Valuable Professional (MVP)<br/>
+      with extensive professional experience since 2011
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" style="padding:10px; vertical-align:top;">
+      <img src="https://github.com/AI-Testers-pl/.github/blob/main/images/slawomir-radzyminski.webp" alt="Sławomir Radzymiński" width="150" height="150" style="border-radius: 50%;" />
+    </td>
+    <td align="left" style="padding:10px; vertical-align:top;">
+      <strong>Sławomir Radzymiński</strong><br/>
+      🔗 [LinkedIn](https://www.linkedin.com/in/slawekradzyminski/)<br/>
+      Senior Staff Test Engineer/Test Lead<br/>
+      Conference Speaker, Mentor, IT Consultant
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" style="padding:10px; vertical-align:top;">
+      <img src="https://github.com/AI-Testers-pl/.github/blob/main/images/michal-slezak.jpg" alt="Michał Ślęzak" width="150" height="150" style="border-radius: 50%;" />
+    </td>
+    <td align="left" style="padding:10px; vertical-align:top;">
+      <strong>Michał Ślęzak</strong><br/>
+      🔗 [LinkedIn](https://www.linkedin.com/in/micha%C5%82-%C5%9Bl%C4%99zak-32563975/)<br/>
+      Senior Test Architect, Test Automation Expert<br/>
+      Conference Speaker, Mentor, IT Consultant
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" style="padding:10px; vertical-align:top;">
+      <img src="https://github.com/AI-Testers-pl/.github/blob/main/images/arkadiusz-jelonek.jpg" alt="Arkadiusz Jelonek" width="150" height="150" style="border-radius: 50%;" />
+    </td>
+    <td align="left" style="padding:10px; vertical-align:top;">
+      <strong>Arkadiusz Jelonek</strong><br/>
+      🔗 [LinkedIn](https://www.linkedin.com/in/ajelonek/)<br/>
+      Test Automation Lead<br/>
+      Mentor, Consultant, Conference Speaker
+    </td>
+  </tr>
+</table>
+</div>
 
 # 📞 Contact & Support
 
 Feel free to reach out to us:
 
-- 🌐 **Website**: [https://aitesters.pl/](https://aitesters.pl/)
-- 💼 **LinkedIn**: [jaktestowac.pl](https://www.linkedin.com/company/aitesters/)
-- 💬 **Discord**: [Polish Playwright Community](https://discord.gg/mUAqQ7FUaZ)
 - 🌐 **Website**: [jaktestowac.pl](https://jaktestowac.pl)
+- 💼 **LinkedIn**: [jaktestowac.pl](https://www.linkedin.com/company/jaktestowac/)
+- 💬 **Discord**: [Polish Playwright Community](https://discord.gg/mUAqQ7FUaZ)
 - 📧 **Support**: Check our website for contact details
 
 ---
 
 # 📚 Learning Resources
 
+We have gathered a collection of resources to help you learn and master Playwright, both in Polish and English. Whether you're a beginner or an advanced user, these resources will help you enhance your skills and knowledge.
+
 ## 🇵🇱 Polish Resources
 
-- [TypeScript for Testers](https://jaktestowac.pl/tsx/) - Express (4h+) introduction to TypeScript for testers with practical examples and exercises
 - [JavaScript and TypeScript for Testers](https://jaktestowac.pl/js-ts/) - Comprehensive (13h+) course on JavaScript and TypeScript for testers, with practical examples and exercises
 - [Professional Test Automation with Playwright](https://jaktestowac.pl/playwright/) - Comprehensive (100h+) course on Playwright, test automation, CI/CD and test architecture
 - [Back-end Test Automation](https://jaktestowac.pl/api/) - Comprehensive (45h+) course on Back-end Test Automation with Postman, Mocha, Chai, and Supertest
@@ -47,8 +102,20 @@ Feel free to reach out to us:
 ## 🇬🇧 English Resources
 
 - [VS Code Extensions](https://marketplace.visualstudio.com/publishers/jaktestowac-pl) - Our free Playwright plugins
-- [Playwright Documentation](https://playwright.dev/docs/intro) - Official documentation
-- [Playwright GitHub](https://github.com/microsoft/playwright) - Source code and issues
+
+### AI_Testers
+
+<div align="center">
+<a href="https://aitesters.pl">
+<img src="./assets/aitesters-header-photo.jpg" alt="AI Testers Logo" height="400"/>
+</a>
+</div>
+
+Gain an edge by combining AI knowledge with the most popular tools in the IT market.  
+We'll show you how to accelerate with AI and build a professional test automation framework. 😉
+
+- [AI_Testers](https://aitesters.pl) - Main page about AI_Testers Program
+- [AI_Testers LinkedIn](https://www.linkedin.com/company/aitesters) - Follow us on LinkedIn
 
 ---
 
