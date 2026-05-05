@@ -32,7 +32,7 @@ We are a team of experienced professionals dedicated to improving software testi
     </td>
     <td align="left" style="padding:10px; vertical-align:top;">
       <strong>Krzysztof Kijas</strong><br/>
-      🔗 [LinkedIn](https://www.linkedin.com/in/krzysztof-kijas/)<br/>
+      <a href="https://www.linkedin.com/in/krzysztof-kijas/" target="_blank" rel="noopener noreferrer">🔗 LinkedIn</a><br/>
       Senior Software Assurance Quality Engineer, Tech Lead, Mentor, IT Consultant<br/>
       Microsoft Most Valuable Professional (MVP)<br/>
       with extensive professional experience since 2011
@@ -44,7 +44,7 @@ We are a team of experienced professionals dedicated to improving software testi
     </td>
     <td align="left" style="padding:10px; vertical-align:top;">
       <strong>Przemysław Barański</strong><br/>
-      🔗 [LinkedIn](https://www.linkedin.com/in/przemyslaw-baranski/)<br/>
+      <a href="https://www.linkedin.com/in/przemyslaw-baranski/" target="_blank" rel="noopener noreferrer">🔗 LinkedIn</a><br/>
       Senior Software Assurance Quality Engineer, Principal Engineer<br/>
       Microsoft Most Valuable Professional (MVP)<br/>
       with extensive professional experience since 2011
@@ -56,7 +56,7 @@ We are a team of experienced professionals dedicated to improving software testi
     </td>
     <td align="left" style="padding:10px; vertical-align:top;">
       <strong>Sławomir Radzymiński</strong><br/>
-      🔗 [LinkedIn](https://www.linkedin.com/in/slawekradzyminski/)<br/>
+      <a href="https://www.linkedin.com/in/slawekradzyminski/" target="_blank" rel="noopener noreferrer">🔗 LinkedIn</a><br/>
       Senior Staff Test Engineer/Test Lead<br/>
       Conference Speaker, Mentor, IT Consultant
     </td>
@@ -67,7 +67,7 @@ We are a team of experienced professionals dedicated to improving software testi
     </td>
     <td align="left" style="padding:10px; vertical-align:top;">
       <strong>Michał Ślęzak</strong><br/>
-      🔗 [LinkedIn](https://www.linkedin.com/in/micha%C5%82-%C5%9Bl%C4%99zak-32563975/)<br/>
+      <a href="https://www.linkedin.com/in/micha%C5%82-%C5%9Bl%C4%99zak-32563975/" target="_blank" rel="noopener noreferrer">🔗 LinkedIn</a><br/>
       Senior Test Architect, Test Automation Expert<br/>
       Conference Speaker, Mentor, IT Consultant
     </td>
@@ -78,7 +78,7 @@ We are a team of experienced professionals dedicated to improving software testi
     </td>
     <td align="left" style="padding:10px; vertical-align:top;">
       <strong>Arkadiusz Jelonek</strong><br/>
-      🔗 [LinkedIn](https://www.linkedin.com/in/ajelonek/)<br/>
+      <a href="https://www.linkedin.com/in/ajelonek/" target="_blank" rel="noopener noreferrer">🔗 LinkedIn</a><br/>
       Test Automation Lead<br/>
       Mentor, Consultant, Conference Speaker
     </td>
