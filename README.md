@@ -4,21 +4,7 @@
 
 Boost your testing with AI and build a professional automation framework.
 
-Gain a competitive edge by combining AI capabilities with the most popular tools in the IT industry: Playwright, GitHub Copilot, MCP, and AI Agents.
-
-Together, we will create an enterprise-grade framework and unlock the power of generating high-quality tests that truly support business needs.
-
-Visit to boost Your skill in AI: [https://aitesters.pl/](https://aitesters.pl/)
-
-## Why AI_Testers?
-
-- Practice over theory – from the very first simple tests to building a complete framework, step by step.
-
-- AI advantage – learn how to use AI effectively in your daily work, without losing control over code quality.
-
-- Enterprise-level frameworks – build solutions that can be implemented in real, large-scale projects.
-
-- Informed decisions – understand not only how, but also why we make specific architectural choices.
+Gain a competitive edge by combining AI capabilities with the most popular tools in the IT industry: Playwright, GitHub Copilot, MCP, and AI Agents. Visit to boost Your skill in AI: **[https://aitesters.pl/](https://aitesters.pl/)**
 
 ## Who we are?
 
@@ -121,7 +107,7 @@ We have gathered a collection of resources to help you learn and master Playwrig
 
 <div align="center">
 <a href="https://aitesters.pl">
-<img src="./assets/aitesters-header-photo.jpg" alt="AI Testers Logo" height="400"/>
+<img src="https://github.com/AI-Testers-pl/.github/blob/main/images/aitesters-header-photo.jpg" alt="AI Testers Logo" height="400"/>
 </a>
 </div>
 
@@ -129,7 +115,9 @@ Gain an edge by combining AI knowledge with the most popular tools in the IT mar
 We'll show you how to accelerate with AI and build a professional test automation framework. 😉
 
 - [AI_Testers](https://aitesters.pl) - Main page about AI_Testers Program
-- [AI_Testers LinkedIn](https://www.linkedin.com/company/aitesters) - Follow us on LinkedIn
+- [LinkedIn](https://www.linkedin.com/company/aitesters) - Follow us on LinkedIn
+- [YouTube](https://www.youtube.com/@AITesterspl?sub_confirmation=1) - Subscribe to our YouTube channel
+- [Instagram](https://www.instagram.com/aitesterspl/) - Follow us on Instagram
 
 ---
 

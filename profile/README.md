@@ -107,7 +107,7 @@ We have gathered a collection of resources to help you learn and master Playwrig
 
 <div align="center">
 <a href="https://aitesters.pl">
-<img src="./assets/aitesters-header-photo.jpg" alt="AI Testers Logo" height="400"/>
+<img src="https://github.com/AI-Testers-pl/.github/blob/main/images/aitesters-header-photo.jpg" alt="AI Testers Logo" height="400"/>
 </a>
 </div>
 
@@ -115,7 +115,9 @@ Gain an edge by combining AI knowledge with the most popular tools in the IT mar
 We'll show you how to accelerate with AI and build a professional test automation framework. 😉
 
 - [AI_Testers](https://aitesters.pl) - Main page about AI_Testers Program
-- [AI_Testers LinkedIn](https://www.linkedin.com/company/aitesters) - Follow us on LinkedIn
+- [LinkedIn](https://www.linkedin.com/company/aitesters) - Follow us on LinkedIn
+- [YouTube](https://www.youtube.com/@AITesterspl?sub_confirmation=1) - Subscribe to our YouTube channel
+- [Instagram](https://www.instagram.com/aitesterspl/) - Follow us on Instagram
 
 ---
 
